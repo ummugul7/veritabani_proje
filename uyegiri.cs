@@ -80,7 +80,7 @@ namespace vtproje
                 }
                 else
                 {
-                    MessageBox.Show(" şifre hatalı tekrar deneyin");
+                    MessageBox.Show(" şifre hatali tekrar deneyin");
                     textBox1.Clear();
                     textBox2.Clear();
                     baglanti.Close();
